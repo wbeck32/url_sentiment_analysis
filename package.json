@@ -1,0 +1,22 @@
+{
+  "name": "url_sentiment_analysis",
+  "version": "1.0.0",
+  "description": "Machine learning algorithm built from Algorithmia",
+  "main": "sentiment-anaysis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbeck32/url_sentiment_analysis.git"
+  },
+  "author": "Wendy Beck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wbeck32/url_sentiment_analysis/issues"
+  },
+  "homepage": "https://github.com/wbeck32/url_sentiment_analysis#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0"
+  }
+}
